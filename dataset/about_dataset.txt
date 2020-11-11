@@ -1,0 +1,1 @@
+There are 2 folder one is neg which contains negative reviews and one is pos which contains positive reviews.
